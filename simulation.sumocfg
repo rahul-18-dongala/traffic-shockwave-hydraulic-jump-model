@@ -1,0 +1,18 @@
+<configuration>
+
+<input>
+<net-file value="road.net.xml"/>
+<route-files value="route.rou.xml"/>
+<additional-files value="output.add.xml"/>
+</input>
+
+<time>
+<begin value="0"/>
+<end value="200"/>
+</time>
+
+<output>
+    <fcd-output value="fcd.xml"/>
+</output>
+
+</configuration>
